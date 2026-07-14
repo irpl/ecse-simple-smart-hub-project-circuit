@@ -1684,7 +1684,7 @@
 				)
 			)
 		)
-		(property "Value" "IRF740"
+		(property "Value" "IRLZ44N"
 			(at 2.54 2.5 0)
 			(layer "F.Fab")
 			(uuid "e21f6353-fc45-4a20-b575-7c1e0c1a08eb")
@@ -1992,7 +1992,7 @@
 				)
 			)
 		)
-		(property "Value" "IRF740"
+		(property "Value" "IRLZ44N"
 			(at 2.54 2.5 0)
 			(layer "F.Fab")
 			(uuid "5c83085e-e768-4f6f-987f-75b82e39fd78")

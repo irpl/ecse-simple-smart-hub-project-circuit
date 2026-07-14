@@ -1285,7 +1285,7 @@
 				)
 			)
 		)
-		(symbol "Transistor_FET:IRF740"
+		(symbol "Transistor_FET:IRLZ44N"
 			(pin_names hide)
 			(exclude_from_sim no)
 			(in_bom yes)
@@ -1299,7 +1299,7 @@
 					(justify left)
 				)
 			)
-			(property "Value" "IRF740"
+			(property "Value" "IRLZ44N"
 				(at 6.35 0 0)
 				(effects
 					(font
@@ -1356,7 +1356,7 @@
 					(hide yes)
 				)
 			)
-			(symbol "IRF740_0_1"
+			(symbol "IRLZ44N_0_1"
 				(polyline
 					(pts
 						(xy 0.254 0) (xy -2.54 0)
@@ -1523,7 +1523,7 @@
 					)
 				)
 			)
-			(symbol "IRF740_1_1"
+			(symbol "IRLZ44N_1_1"
 				(pin input line
 					(at -5.08 0 0)
 					(length 2.54)
@@ -2917,7 +2917,7 @@
 		(uuid "fbb55cd8-be38-4ea1-b76f-0efbbba6f12d")
 	)
 	(symbol
-		(lib_id "Transistor_FET:IRF740")
+		(lib_id "Transistor_FET:IRLZ44N")
 		(at 175.26 97.79 90)
 		(unit 1)
 		(exclude_from_sim no)
@@ -2934,7 +2934,7 @@
 				)
 			)
 		)
-		(property "Value" "IRF740"
+		(property "Value" "IRLZ44N"
 			(at 175.26 90.17 90)
 			(effects
 				(font
@@ -3638,7 +3638,7 @@
 		)
 	)
 	(symbol
-		(lib_id "Transistor_FET:IRF740")
+		(lib_id "Transistor_FET:IRLZ44N")
 		(at 156.21 97.79 90)
 		(unit 1)
 		(exclude_from_sim no)
@@ -3655,7 +3655,7 @@
 				)
 			)
 		)
-		(property "Value" "IRF740"
+		(property "Value" "IRLZ44N"
 			(at 156.21 90.17 90)
 			(effects
 				(font
